@@ -1,0 +1,99 @@
+body{
+    margin:0px;
+}
+
+.menu
+{
+    width:80%;
+    height:5%;
+    background-color: beige;
+    margin: auto;
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.menu a
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    text-decoration-line: none;
+}
+.menu a:hover
+{
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+    text-decoration-line: underline;
+}
+
+
+
+
+
+
+
+.banner{
+    width:80%;
+    height: 40%;
+    margin: auto;
+    background-color: burlywood;
+}
+
+
+
+
+.body{
+    width:80%;
+    height: 90%;
+    margin: auto;
+    background-color:cyan;
+}
+#b_left{
+    width:30%;
+    height: 100%;
+    float: left;
+    background-color: darkolivegreen;
+}
+#b_right{
+    width:70%;
+    height: 100%;
+    float: left;
+    background-color:deeppink;
+}
+
+
+
+
+
+.footer
+{
+    width:80%;
+    height:5%;
+    background-color: beige;
+    margin: auto;
+}
+#f_left{
+    width:80%;
+    height: 100%;
+    float:right;
+    text-align: right;
+    padding-top: 8px;
+    padding-right: 20px;
+}
+#f_left a
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    text-decoration-line: none;
+}
+#f_left a:hover
+{
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+    text-decoration-line: underline;
+}
+
+#f_right{
+    width:20%;
+    height: 100%;
+    float: left;
+}
